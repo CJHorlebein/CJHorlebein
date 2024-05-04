@@ -3,7 +3,7 @@
 I'm CJ Horlebein, an Senior Software Engineering specializing in frontend development. My background primarily includes E-commerce and Logistic focused applications, but I also enjoy a lot of scripting and game development in my spare time.
 
 Mostly interested in working in tech start ups and smaller size companies, but flexible for the right company or project.
-
+<!-- 
 # Skills
 <table>
   <link
@@ -135,4 +135,4 @@ Mostly interested in working in tech start ups and smaller size companies, but f
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
